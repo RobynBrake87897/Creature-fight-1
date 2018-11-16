@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CreatureWorld
+comment0.text=\r\n\ CreatreWorld\ extends\ world.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=CreatureWorld()
+comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ CreatureWorld.\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ an\ object\ of\ class\ CreatureWorld\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act\ will\ complete\ actions\ that\ the\ CreatureWorld\ object\ should\r\n\ accomplish\ while\ the\ scenario\ is\ running\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ prepareCreatures()
+comment3.text=\r\n\ prepareCreatures\ prepares\ both\ players\ and\ their\ healthbars\ by\ positioning\ them.\r\n\ \r\n\ @param\ nothing\ is\ required\r\n\ @return\ nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=Creature\ getPlayerOne()
+comment4.text=\r\n\ getPlayerOne\ returns\ playerOneCreature.\r\n\ \r\n\ @param,\ Creature\ (playerOneCreature)\r\n\ @return\ playerOneCreature\ is\ returned\r\n
+comment5.params=
+comment5.target=Creature\ getPlayerTwo()
+comment5.text=\r\n\ getPlayerTwo\ returns\ playerTwoCreature.\r\n\ \r\n\ @param,\ Creature\ (playerTwoCreature)\r\n\ @return\ playerOneCreature\ is\ returned\r\n
+numComments=6

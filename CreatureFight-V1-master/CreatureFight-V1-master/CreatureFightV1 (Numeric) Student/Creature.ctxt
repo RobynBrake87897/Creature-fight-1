@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Creature
+comment0.text=\r\n\ Creature\ class\ extends\ actor.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Creature()
+comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ the\ Creature\ class\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ an\ object\ of\ the\ Creature\ class\r\n
+comment2.params=health\ whichPlayer
+comment2.target=Creature(int,\ int)
+comment2.text=\r\n\ Constructor\ that\ allows\ customization\ of\ objects\ of\ the\ Creature\ class\r\n\ \r\n\ @param\ health\ is\ the\ amount\ of\ health\ the\ Creature\ object\ will\ have\r\n\ @param\ whichPlayer\ discusses\ whether\ the\ creature\ belongs\ to\ player\ 1\ or\ player\ 2\r\n\ @return\ an\ object\ of\ the\ Creature\ class\r\n
+comment3.params=
+comment3.target=void\ attack()
+comment3.text=\r\n\ attack\ is\ the\ code\ that\ is\ run\ when\ the\ Creature\ attacks\ its\ enemy\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ act\ will\ complete\ actions\ that\ the\ Creature\ object\ should\r\n\ accomplish\ while\ the\ scenario\ is\ running\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=HealthBar\ getHealthBar()
+comment5.text=\r\n\ TODO\ (14)\:\ Declare\ a\ protected\ method\ called\ getHealthBar\ that\ returns\ a\ HealthBar\ object\ and\ has\ no\ parameters\r\n\ \r\n\ TODO\ (15)\:\ This\ method\ will\ simply\ return\ the\ creatureBar\ variable\r\n
+comment6.params=
+comment6.target=int\ getPlayerOwner()
+comment6.text=\r\n\ TODO\ (16)\:\ Declare\ a\ public\ method\ called\ getPlayerOwner\ that\ returns\ an\ integer\ and\ has\ no\ parameters\r\n\ \r\n\ TODO\ (17)\:\ This\ method\ returns\ the\ playerOwnership\ variable\r\n
+numComments=7
